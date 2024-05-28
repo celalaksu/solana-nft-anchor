@@ -1,0 +1,58 @@
+{
+	"name": "Celal",
+	"symbol": "CLL",
+	"description": "Celal Just Me",
+	"image": "https://pbs.twimg.com/media/F3DRtPUb0AEPJRi?format=jpg&name=large",
+	"animation_url": "https://storage.googleapis.com/sw-test-2023/sounds/2023-11-06T07:11:10.510Z_2023-10-19T09-17-35.489Z_DISCO_Splurge1_28Mar.mp3",
+	"attributes": [
+		{
+			"trait_type": "Gender",
+			"value": "Female"
+		},
+		{
+			"trait_type": "Type",
+			"value": "Dark"
+		},
+		{
+			"trait_type": "Expression",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Hat",
+			"value": "Cartwheel"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Long Purple"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Pink"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Noir Dress"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		}
+	],
+	"properties": {
+		"category": "audio",
+		"files": [
+			{
+				"uri": "https://pbs.twimg.com/media/F3DRtPUb0AEPJRi?format=jpg&name=large",
+				"type": "image/jpeg"
+			},
+			{
+				"uri": "https://storage.googleapis.com/sw-test-2023/sounds/2023-11-06T07:11:10.510Z_2023-10-19T09-17-35.489Z_DISCO_Splurge1_28Mar.mp3",
+				"type": "audio/mpeg"
+			}
+		]
+	}
+}
